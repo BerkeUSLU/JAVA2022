@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="055073cd-64da-47b3-a6b9-b184af640a62" name="Changes" comment="-gitignore updated">
+    <list default="true" id="055073cd-64da-47b3-a6b9-b184af640a62" name="Changes" comment="-methods2 updated">
+      <change afterPath="$PROJECT_DIR$/src/Week2/variable_arguments/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/methods2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/methods2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Week2.variable_arguments.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.methods2.Main" />
       <module name="JAVA2022" />
@@ -49,8 +49,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Week2.variable_arguments.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.variable_arguments.Main" />
+      <module name="JAVA2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.variable_arguments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week2.variable_arguments.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -92,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664104574224</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-methods2 updated">
+      <created>1664105189075</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664105189075</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +131,7 @@
     <MESSAGE value="-initial commit" />
     <MESSAGE value="-updated" />
     <MESSAGE value="-gitignore updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="-gitignore updated" />
+    <MESSAGE value="-methods2 updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="-methods2 updated" />
   </component>
 </project>
