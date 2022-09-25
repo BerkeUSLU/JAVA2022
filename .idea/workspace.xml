@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="055073cd-64da-47b3-a6b9-b184af640a62" name="Changes" comment="-variable_arguments update">
-      <change afterPath="$PROJECT_DIR$/src/Week2/classes/Main.java" afterDir="false" />
+    <list default="true" id="055073cd-64da-47b3-a6b9-b184af640a62" name="Changes" comment="-classes update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Week2.classes.Main">
+  <component name="RunManager" selected="Application.Week2.reCapDemo_Classes.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.methods2.Main" />
       <module name="JAVA2022" />
@@ -64,6 +63,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Week2.reCapDemo_Classes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.reCapDemo_Classes.Main" />
+      <module name="JAVA2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.reCapDemo_Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Week2.variable_arguments.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.variable_arguments.Main" />
       <module name="JAVA2022" />
@@ -79,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week2.reCapDemo_Classes.Main" />
         <item itemvalue="Application.Week2.classes.Main" />
         <item itemvalue="Application.Week2.variable_arguments.Main" />
         <item itemvalue="Application.Main" />
@@ -136,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664105792890</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="-classes update">
+      <created>1664107872409</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664107872409</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +176,7 @@
     <MESSAGE value="-gitignore updated" />
     <MESSAGE value="-methods2 updated" />
     <MESSAGE value="-variable_arguments update" />
-    <option name="LAST_COMMIT_MESSAGE" value="-variable_arguments update" />
+    <MESSAGE value="-classes update" />
+    <option name="LAST_COMMIT_MESSAGE" value="-classes update" />
   </component>
 </project>
