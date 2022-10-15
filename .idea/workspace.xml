@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-staticDemo is created">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/staticDemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/staticDemo/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-staticDemo is updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -299,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665838656763</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="-staticDemo is updated">
+      <created>1665841406736</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1665841406736</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,6 +340,7 @@
     <MESSAGE value="-CustomerManager is updated" />
     <MESSAGE value="-interfaceDemo is updated" />
     <MESSAGE value="-staticDemo is created" />
-    <option name="LAST_COMMIT_MESSAGE" value="-staticDemo is created" />
+    <MESSAGE value="-staticDemo is updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="-staticDemo is updated" />
   </component>
 </project>
