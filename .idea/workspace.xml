@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-abstractClasses is updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/abstractClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/abstractClasses/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Week3.abstractClasses.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.inheritanceDemo.Main" />
-      <module name="JAVA2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week2.inheritanceDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Week3.abstractDemo.Main">
     <configuration name="Week2.classesWithAttributes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.classesWithAttributes.Main" />
       <module name="JAVA2022" />
@@ -91,6 +77,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Week3.abstractDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.abstractDemo.Main" />
+      <module name="JAVA2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.abstractDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Week3.polymorphismDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.polymorphismDemo.Main" />
       <module name="JAVA2022" />
@@ -106,18 +105,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week3.abstractDemo.Main" />
         <item itemvalue="Application.Week3.abstractClasses.Main" />
         <item itemvalue="Application.Week3.polymorphismDemo.Main" />
         <item itemvalue="Application.Week2.classesWithAttributes.Main" />
         <item itemvalue="Application.Week3.OOP.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="055073cd-64da-47b3-a6b9-b184af640a62" name="Changes" comment="" />
+      <changelist id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-abstractClasses is updated" />
       <created>1663966118764</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -242,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665753974083</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="-abstractClasses is updated">
+      <created>1665754807639</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665754807639</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
