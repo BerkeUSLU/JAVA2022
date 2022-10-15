@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-CustomerManager is updated">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-interfaceDemo is updated">
+      <change beforePath="$PROJECT_DIR$/src/Week3/staticDemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/staticDemo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -284,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665837357003</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="-interfaceDemo is updated">
+      <created>1665838559075</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665838559075</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,8 +325,8 @@
     <MESSAGE value="-abstractDemo is updated &amp; created" />
     <MESSAGE value="-interfaces is created." />
     <MESSAGE value="-interfaces is updated" />
-    <MESSAGE value="-interfaceDemo is updated" />
     <MESSAGE value="-CustomerManager is updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="-CustomerManager is updated" />
+    <MESSAGE value="-interfaceDemo is updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="-interfaceDemo is updated" />
   </component>
 </project>
