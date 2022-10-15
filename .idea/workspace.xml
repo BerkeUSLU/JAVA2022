@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-abstractDemo is updated &amp; created" />
+    <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-interfaces is created.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/interfaces/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,13 +39,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Week3.abstractDemo.Main">
-    <configuration name="Week2.classesWithAttributes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.classesWithAttributes.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.interfaces.Main" />
       <module name="JAVA2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week2.classesWithAttributes.*" />
+          <option name="PATTERN" value="Week3.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week3.OOP.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.OOP.Main" />
+    <configuration name="Week2.classesWithAttributes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.classesWithAttributes.Main" />
       <module name="JAVA2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.OOP.*" />
+          <option name="PATTERN" value="Week2.classesWithAttributes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Week3.abstractDemo.Main" />
         <item itemvalue="Application.Week3.abstractClasses.Main" />
         <item itemvalue="Application.Week3.polymorphismDemo.Main" />
         <item itemvalue="Application.Week2.classesWithAttributes.Main" />
-        <item itemvalue="Application.Week3.OOP.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665832997618</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="-interfaces is created.">
+      <created>1665833228567</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665833228567</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +296,7 @@
     <MESSAGE value="-abstractClasses is created&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="-abstractClasses is updated" />
     <MESSAGE value="-abstractDemo is updated &amp; created" />
-    <option name="LAST_COMMIT_MESSAGE" value="-abstractDemo is updated &amp; created" />
+    <MESSAGE value="-interfaces is created." />
+    <option name="LAST_COMMIT_MESSAGE" value="-interfaces is created." />
   </component>
 </project>
