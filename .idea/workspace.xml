@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-staticDemo is updated" />
+    <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-entities is updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/KodlamaIO/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/KodlamaIO/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/KodlamaIO/entities/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/KodlamaIO/entities/Category.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -303,7 +307,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665841406736</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="-KodlamaIO is created">
+      <created>1665841704846</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1665841704846</updated>
+    </task>
+    <task id="LOCAL-00028" summary="-entities is updated">
+      <created>1665841956781</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1665841956781</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,6 +359,8 @@
     <MESSAGE value="-interfaceDemo is updated" />
     <MESSAGE value="-staticDemo is created" />
     <MESSAGE value="-staticDemo is updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="-staticDemo is updated" />
+    <MESSAGE value="-KodlamaIO is created" />
+    <MESSAGE value="-entities is updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="-entities is updated" />
   </component>
 </project>
