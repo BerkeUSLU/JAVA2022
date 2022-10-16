@@ -3,8 +3,9 @@ package Week3.KodlamaIO.entities;
 public class Category {
     private int ID;
     private String name;
-    public Category(int id, String name) {
-        this.ID = id;
+
+    public Category(int ID, String name) {
+        this.ID = ID;
         this.name = name;
     }
 
@@ -23,6 +24,4 @@ public class Category {
     public void setName(String name) {
         this.name = name;
     }
-
-
 }
