@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-logging is created &amp; updated">
+    <list default="true" id="92afc756-dac4-4b49-aef5-a490ad07876c" name="Changes" comment="-KodlamaIO project is updated.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/KodlamaIO/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/KodlamaIO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/KodlamaIO/entities/Category.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +36,12 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/campspring/rentACar&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Week3.KodlamaIO.Main">
+  <component name="RunManager" selected="Application.Week4.Kodlama.io.Devs.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.interfaces.Main" />
       <module name="JAVA2022" />
@@ -60,19 +61,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Week3.KodlamaIO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Week3.abstractClasses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.abstractClasses.Main" />
-      <module name="JAVA2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week3.abstractClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Week4.Kodlama.io.Devs.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week4.Kodlama.io.Devs.Main" />
+      <module name="JAVA2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week4.Kodlama.io.Devs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week4.Kodlama.io.Devs.Main" />
         <item itemvalue="Application.Week3.KodlamaIO.Main" />
         <item itemvalue="Application.Week3.staticDemo.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Week3.abstractDemo.Main" />
-        <item itemvalue="Application.Week3.abstractClasses.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665863268128</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="-KodlamaIO project is updated.">
+      <created>1665928534997</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1665928534997</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,7 +365,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="-methods2 updated" />
     <MESSAGE value="-variable_arguments update" />
     <MESSAGE value="-classes update" />
     <MESSAGE value="-reCapDemo_Classes update" />
@@ -382,6 +389,7 @@
     <MESSAGE value="-Category.java,Course.java &amp; Instructor.java is updated" />
     <MESSAGE value="-KodlamaIO is updated" />
     <MESSAGE value="-logging is created &amp; updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="-logging is created &amp; updated" />
+    <MESSAGE value="-KodlamaIO project is updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="-KodlamaIO project is updated." />
   </component>
 </project>
